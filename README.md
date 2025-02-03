@@ -1,4 +1,4 @@
-## I'm just trying to learn 🏃‍♂️
+## Learning one day at a time 🏃‍♂️
 
 <!--
 **kwilson05/kwilson05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
